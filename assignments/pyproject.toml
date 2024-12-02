@@ -1,7 +1,7 @@
 [project]
 name = "life_expectancy"
 version = "0.1.0"
-description = "A cool package doing cool things."
+description = "My cool package doing cool things."
 authors = [{name="Inês Silva", email="insfsilva25@gmail.com"}]
 dependencies = ["requests", "pandas"]
 
